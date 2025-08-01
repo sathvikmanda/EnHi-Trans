@@ -1,4 +1,4 @@
-# TransLingua: English-to-Hindi Neural Machine Translation
+# En-Hi Trans: English-to-Hindi Neural Machine Translation
 
 This repository contains a Neural Machine Translation (NMT) pipeline that translates English sentences into Hindi using Hugging Face's `transformers`. The model leverages the **Helsinki-NLP/Opus-MT** architecture and is trained on the **IIT Bombay English-Hindi dataset**.
 
